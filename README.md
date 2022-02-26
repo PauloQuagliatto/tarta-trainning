@@ -19,3 +19,10 @@
     git pull ---> pull changes on actual branch
 
     git merge {branch} ---> merges actual branch with inputed branch
+
+### REACT
+
+    from 0 ---> npm install react react-dom webpack babel (dependencies)
+    templates -----> npx create-react-app {name}
+              |
+               ----> npm init vite@latest -- --template react {name}
