@@ -16,4 +16,6 @@
 
     git checkout -b {branch} ---> create and change work branch
 
+    git pull ---> pull changes on actual branch
+
     git merge {branch} ---> merges actual branch with inputed branch
